@@ -1,4 +1,5 @@
 # gqtx（国庆头像）  
+[![GitHub stars](https://img.shields.io/github/stars/CoderXGC/gqtx)](https://github.com/CoderXGC/gqtx/stargazers)
 ![QQ截图20210928135617.png](https://i.loli.net/2021/09/28/BpSzLAnIfTGZ9s7.png)
 ## 目录  
 * [背景介绍](#背景介绍)  
