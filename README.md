@@ -37,10 +37,10 @@ https://www.ylesb.com/gqtx/
 ## 免责声明
 根据《中华人民共和国国旗法》。为维护国旗的尊严，规范国旗的使用，增强公民的国家观念，弘扬爱国主义精神，培育和践行社会主义核心价值观，根据宪法，制定的法律。用次源码生成头像时，请遵循法律，本程序仅提供生成，不参与用户创作，一切由此程序生成的头像违法法律的行为均由用户承担！请熟悉！
 
-时间仓促，功能简陋，望您包涵。OneCoder(Blog:[http://www.coderli.com](http://www.coderli.com))特别希望看到该项目对您哪怕一点点的帮助。任意的意见和建议，欢迎随意与我沟通,联系方式：
+时间仓促，功能简陋，望您包涵。怀特博客(Blog:[https://www.ylesb.com](https://www.ylesb.com))特别希望看到该项目对您哪怕一点点的帮助。任意的意见和建议，欢迎随意与我沟通,联系方式：
 
-* Email: <wushikezuo@gmail.com>
-* QQ:57959968
-* Blog:[OneCoder](http://www.coderli.com)
+* Email: <xgc@tom.com>
+* QQ:466534434
+* Blog:[怀特博客](https://www.ylesb.com)
 
 项目的Bug和改进点，可在OSChina上以issue的方式直接提交给我。
