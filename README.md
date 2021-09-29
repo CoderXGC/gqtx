@@ -1,5 +1,17 @@
  # gqtx（国庆头像）  
 [![GitHub stars](https://img.shields.io/github/stars/CoderXGC/gqtx)](https://github.com/CoderXGC/gqtx/stargazers)  
+
+<a name="背景介绍"></a>
+## 背景介绍
+
+*gqtx*，是国庆头像的拼音缩写，国庆微信头像源码可以生成QQ微信国庆头像等等<br/>
+<a name="项目介绍"></a>
+## 项目介绍
+
+主要是就是html+js+css构成，源码自己可以看一下，一眼就可以看懂。<br>
+
+<a name="使用说明"></a>
+## 使用说明
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -10,24 +22,6 @@
     color: #999;
     padding: 2px;">项目截图</div>
 </center>
-
-<a name="背景介绍"></a>
-## 背景介绍
-————————————————
-版权声明：本文为CSDN博主「usench_10000」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/usench_10000/article/details/84732018
-<a name="背景介绍"></a>
-## 背景介绍
-
-*gqtx*，是国庆头像的拼音缩写.<br/>
-<a name="项目介绍"></a>
-## 项目介绍
-
-主要是就是html+js+css构成，源码自己可以看一下，一眼就可以看懂。<br>
-
-<a name="使用说明"></a>
-## 使用说明
-
 <a name="获取代码"></a>
 ### 获取代码
 
