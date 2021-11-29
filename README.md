@@ -44,5 +44,6 @@ https://www.ylesb.com/gqtx/
 * Email: <xgc@tom.com>
 * QQ:466534434
 * Blog:[怀特博客](https://www.ylesb.com)
-
+  -  **Contact-Email me :** [xgc（xgc@tom.com）](mailto:xgc@tom.com)
+![Image text](https://i.loli.net/2021/11/29/pyIHGcArQ6DVid3.png)
 项目的Bug和改进点，可在OSChina上以issue的方式直接提交给我。
